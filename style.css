@@ -1,0 +1,14 @@
+body {
+  background-color: #f0f0f0;
+  color: #222;
+  text-align: center;
+  margin-top: 50px;
+  font-family: sans-serif;
+}
+button {
+  padding: 10px 20px;
+  background: teal;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
