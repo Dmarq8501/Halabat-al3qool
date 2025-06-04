@@ -1,3 +1,3 @@
-function sayHi() {
-  alert("أهلًا بك في موقعك!");
+function startGame() {
+  alert("اللعبة بدأت!");
 }
